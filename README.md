@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yupi</h1>
-<h3 align="center">still learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merayupi&label=Profile%20views&color=0e75b6&style=flat" alt="merayupi" /> </p>
 
