@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/yuppii20" target="blank"><img src="https://img.shields.io/twitter/follow/yuppii20?logo=twitter&style=for-the-badge" alt="yuppii20" /></a> </p>
 
-- 📫 How to reach me **bintang555pamungkas@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
